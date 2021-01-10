@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sudarshan%20Paul-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-paul-377133177/ "Connect on LinkedIn")
 
 
-<a href="https://github.com/PaulSudarshan"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+<a href="https://github.com/PaulSudarshan"><img src="https://github.com/PaulSudarshan/PaulSudarshan/blob/main/python.png" align="right" height="200" /></a>
 
 I am Sudarshan Paul, a final year B.Tech. ECE student from Karunya Institute of Technology and Sciences, Coimbatore. My area of interests include Machine Learning and Computer Vision. I have prior experience to work on Data Science and Analytics based projects, one of my major project in this field include dashboard development and "Financial Data Modeling" for a leading MSME firm and developed a Cost-Analysis Tool-Kit Web Application named - "SIMPLICOST". 
 
@@ -26,7 +26,7 @@ So Yes!, this is where my current learning is headed towards! (No! Not aspiring 
 2) Graduate Rotational Internship Program, [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/join-us/internship-positions/)
 
 ## Some of my Github Public Stats
-<a href="https://github.com/PaulSudarshan"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
+<a href="https://github.com/PaulSudarshan"><img src="https://github.com/PaulSudarshan/PaulSudarshan/blob/main/coffee.png" align="right" height="275" /></a>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=PaulSudarshan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/PaulSudarshan)
 
