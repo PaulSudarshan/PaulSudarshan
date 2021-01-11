@@ -22,8 +22,9 @@ So Yes!, this is where my current learning is headed towards! (No! Not aspiring 
 6) Software Developer Intern, [Logy.Ai](https://logy.ai/)
 
 ### Participations
-1) AI Champ Program, [CodeVector Labs](https://codevector.in/)
-2) Graduate Rotational Internship Program, [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/join-us/internship-positions/)
+1) AI Champ Program, [CodeVector Labs](https://codevector.in/) ([See Work Here](https://github.com/PaulSudarshan/AICHAMP_Weekly_Assignments))
+
+2) Graduate Rotational Internship Program, [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/join-us/internship-positions/) ([See Work Here](https://github.com/PaulSudarshan/TSF-GRIP-Internship-Tasks))
 
 ## Some of my Github Public Stats
 <a href="https://github.com/PaulSudarshan"><img src="https://github.com/PaulSudarshan/PaulSudarshan/blob/main/coffee.png" align="right" height="275" /></a>
