@@ -6,7 +6,7 @@
 
 <a href="https://github.com/PaulSudarshan"><img src="https://github.com/PaulSudarshan/PaulSudarshan/blob/main/python.png" align="right" height="200" /></a>
 
-I am Sudarshan Paul, a final year B.Tech. ECE student from Karunya Institute of Technology and Sciences, Coimbatore. My area of interests include Machine Learning and Computer Vision. I have prior experience to work on Data Science and Analytics based projects, one of my major project in this field include dashboard development and "Financial Data Modeling" for a leading MSME firm and developed a Cost-Analysis Tool-Kit Web Application named - "SIMPLICOST". 
+I am Sudarshan Paul, Machine Learning Engineer working at Tata Consultancy Services in C.A.S.E (Connected Autonomous Shared Electric) AI/ML Team. My area of interests include Deep Learning and Computer Vision. I have prior experience to work on Data Science and Analytics based projects, one of my major project in this field include dashboard development and "Financial Data Modeling" for a leading MSME firm and developed a Cost-Analysis Tool-Kit Web Application named - "SIMPLICOST". 
 
 I have a good command over Data Visualization libraries such as Matplotlib, Seaborn, Plotly, Cufflinks etc in order to demonstrate data in the form of various graphs and charts for in-depth analysis. 
 
